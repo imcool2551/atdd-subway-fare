@@ -1,4 +1,4 @@
-package nextstep.path.domain.fare;
+package nextstep.path.domain.fare.policy;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.params.ParameterizedTest;

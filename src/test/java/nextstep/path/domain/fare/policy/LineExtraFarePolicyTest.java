@@ -1,4 +1,4 @@
-package nextstep.path.domain.fare;
+package nextstep.path.domain.fare.policy;
 
 import nextstep.line.domain.Line;
 import nextstep.line.domain.Section;

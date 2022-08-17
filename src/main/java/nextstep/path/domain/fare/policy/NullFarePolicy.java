@@ -1,8 +1,8 @@
-package nextstep.path.domain.fare;
+package nextstep.path.domain.fare.policy;
 
 public class NullFarePolicy extends FarePolicy {
 
-    NullFarePolicy() {
+    public NullFarePolicy() {
         super(null);
     }
 

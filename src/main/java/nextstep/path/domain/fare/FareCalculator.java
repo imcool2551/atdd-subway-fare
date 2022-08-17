@@ -2,6 +2,12 @@ package nextstep.path.domain.fare;
 
 import nextstep.line.domain.Line;
 import nextstep.line.domain.Section;
+import nextstep.path.domain.fare.policy.AgeDiscountFarePolicy;
+import nextstep.path.domain.fare.policy.BaseFarePolicy;
+import nextstep.path.domain.fare.policy.DistanceExtraFarePolicy;
+import nextstep.path.domain.fare.policy.FarePolicy;
+import nextstep.path.domain.fare.policy.LineExtraFarePolicy;
+import nextstep.path.domain.fare.policy.NullFarePolicy;
 
 import java.util.List;
 
